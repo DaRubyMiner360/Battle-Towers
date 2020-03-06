@@ -1,0 +1,1 @@
+execute @e[scores={start=1898},c=1] ~ ~ ~ function battletower

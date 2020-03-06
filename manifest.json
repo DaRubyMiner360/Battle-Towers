@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Battle Tower Functions dakon",
+        "name": "Functions dako",
+        "uuid": "fe9f8597-5454-481a-8730-8d060a8e2e58",
+        "min_engine_version": [1, 8, 0],
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Battle Tower Functions dakon",
+            "type": "data",
+            "uuid": "79fccc3b-7bad-4f3f-aa97-d98108e6aa33",
+            "version": [0, 0, 1]
+        }
+    ]
+}

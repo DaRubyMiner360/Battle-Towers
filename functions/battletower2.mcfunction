@@ -48,134 +48,134 @@ fill ~5 ~-2 ~11 ~11 ~-2 ~11 sandstone 0
 fill ~6 ~-2 ~12 ~9 ~-2 ~12 sandstone 0
 fill ~6 ~-2 ~13 ~9 ~-2 ~13 sandstone 0
 fill ~10 ~-2 ~12 ~11 ~-2 ~12 sandstone 0
-setblock ~11 ~-2 ~1 stone_stairs 0
-setblock ~11 ~-2 ~2 double_stone_slab 0
-fill ~12 ~-2 ~2 ~12 ~55 ~2 cobblestone 0
-fill ~4 ~-1 ~0 ~11 ~-1 ~0 cobblestone 0
-fill ~4 ~-1 ~12 ~11 ~-1 ~12 cobblestone 0
-setblock ~5 ~-1 ~1 stone_stairs 0
-fill ~5 ~-1 ~2 ~12 ~-1 ~2 cobblestone 0
+setblock ~11 ~-2 ~1 sandstone_stairs 0
+setblock ~11 ~-2 ~2 sandstone 0
+fill ~12 ~-2 ~2 ~12 ~55 ~2 sandstone 0
+fill ~4 ~-1 ~0 ~11 ~-1 ~0 sandstone 0
+fill ~4 ~-1 ~12 ~11 ~-1 ~12 sandstone 0
+setblock ~5 ~-1 ~1 sandstone_stairs 0
+fill ~5 ~-1 ~2 ~12 ~-1 ~2 sandstone 0
 setblock ~5 ~-1 ~9 mob_spawner 0
-fill ~6 ~-1 ~13 ~9 ~-1 ~13 cobblestone 0
-fill ~7 ~-1 ~10 ~8 ~-1 ~10 double_stone_slab 0
+fill ~6 ~-1 ~13 ~9 ~-1 ~13 sandstone 0
+fill ~7 ~-1 ~10 ~8 ~-1 ~10 sandstone 0
 setblock ~10 ~-1 ~9 mob_spawner 0
-fill ~4 ~0 ~0 ~11 ~0 ~0 cobblestone 0
-fill ~4 ~0 ~12 ~11 ~0 ~12 cobblestone 0
-fill ~5 ~0 ~2 ~12 ~0 ~2 cobblestone 0
-setblock ~6 ~0 ~1 stone_stairs 0
-fill ~6 ~0 ~13 ~9 ~0 ~13 cobblestone 0
+fill ~4 ~0 ~0 ~11 ~0 ~0 sandstone 0
+fill ~4 ~0 ~12 ~11 ~0 ~12 sandstone 0
+fill ~5 ~0 ~2 ~12 ~0 ~2 sandstone 0
+setblock ~6 ~0 ~1 sandstone_stairs 0
+fill ~6 ~0 ~13 ~9 ~0 ~13 sandstone 0
 fill ~7 ~0 ~10 ~8 ~0 ~10 chest 2
 replaceitem block ~8 ~0 ~10 slot.container 1 apple 3
 replaceitem block ~7 ~0 ~10 slot.container 8 iron_ingot 8
-fill ~4 ~1 ~0 ~11 ~1 ~0 cobblestone 0
-fill ~4 ~1 ~2 ~12 ~1 ~2 cobblestone 0
-fill ~4 ~1 ~12 ~11 ~1 ~12 cobblestone 0
-fill ~6 ~1 ~13 ~9 ~1 ~13 cobblestone 0
-setblock ~7 ~1 ~1 stone_stairs 0
-fill ~4 ~2 ~0 ~11 ~2 ~0 cobblestone 0
-fill ~4 ~2 ~2 ~12 ~2 ~2 cobblestone 0
-fill ~4 ~2 ~12 ~11 ~2 ~12 cobblestone 0
-fill ~6 ~2 ~13 ~9 ~2 ~13 cobblestone 0
-setblock ~8 ~2 ~1 stone_stairs 0
-fill ~4 ~3 ~0 ~11 ~3 ~0 cobblestone 0
-fill ~4 ~3 ~2 ~12 ~3 ~2 cobblestone 0
-fill ~4 ~3 ~12 ~11 ~3 ~12 cobblestone 0
-fill ~6 ~3 ~13 ~9 ~3 ~13 cobblestone 0
-setblock ~9 ~3 ~1 stone_stairs 0
-fill ~1 ~4 ~6 ~1 ~6 ~6 cobblestone 0
-fill ~1 ~4 ~7 ~1 ~6 ~7 cobblestone 0
-fill ~4 ~4 ~0 ~11 ~4 ~0 cobblestone 0
-fill ~4 ~4 ~2 ~12 ~4 ~2 cobblestone 0
-fill ~4 ~4 ~12 ~11 ~4 ~12 cobblestone 0
-fill ~6 ~4 ~13 ~9 ~4 ~13 cobblestone 0
-setblock ~10 ~4 ~1 stone_stairs 0
-fill ~14 ~4 ~6 ~14 ~6 ~6 cobblestone 0
-fill ~14 ~4 ~7 ~14 ~6 ~7 cobblestone 0
-fill ~2 ~5 ~5 ~13 ~5 ~5 double_stone_slab 0
-fill ~2 ~5 ~6 ~13 ~5 ~6 double_stone_slab 0
-fill ~2 ~5 ~7 ~13 ~5 ~7 double_stone_slab 0
-fill ~2 ~5 ~8 ~13 ~5 ~8 double_stone_slab 0
-fill ~3 ~5 ~3 ~12 ~5 ~3 double_stone_slab 0
-fill ~3 ~5 ~4 ~12 ~5 ~4 double_stone_slab 0
-fill ~3 ~5 ~9 ~12 ~5 ~9 double_stone_slab 0
-fill ~3 ~5 ~10 ~12 ~5 ~10 double_stone_slab 0
-fill ~4 ~5 ~0 ~11 ~5 ~0 cobblestone 0
-fill ~4 ~5 ~1 ~4 ~5 ~11 double_stone_slab 0
-fill ~4 ~5 ~12 ~5 ~5 ~12 cobblestone 0
-fill ~5 ~5 ~2 ~10 ~5 ~2 cobblestone 0
-fill ~5 ~5 ~11 ~11 ~5 ~11 double_stone_slab 0
-fill ~6 ~5 ~12 ~9 ~5 ~12 double_stone_slab 0
-fill ~6 ~5 ~13 ~9 ~5 ~13 cobblestone 0
-fill ~10 ~5 ~12 ~11 ~5 ~12 cobblestone 0
-setblock ~11 ~5 ~1 stone_stairs 0
-setblock ~11 ~5 ~2 double_stone_slab 0
-fill ~4 ~6 ~0 ~11 ~6 ~0 cobblestone 0
-fill ~4 ~6 ~12 ~11 ~6 ~12 cobblestone 0
-setblock ~5 ~6 ~1 stone_stairs 0
-fill ~5 ~6 ~2 ~10 ~6 ~2 cobblestone 0
+fill ~4 ~1 ~0 ~11 ~1 ~0 sandstone 0
+fill ~4 ~1 ~2 ~12 ~1 ~2 sandstone 0
+fill ~4 ~1 ~12 ~11 ~1 ~12 sandstone 0
+fill ~6 ~1 ~13 ~9 ~1 ~13 sandstone 0
+setblock ~7 ~1 ~1 sandstone_stairs 0
+fill ~4 ~2 ~0 ~11 ~2 ~0 sandstone 0
+fill ~4 ~2 ~2 ~12 ~2 ~2 sandstone 0
+fill ~4 ~2 ~12 ~11 ~2 ~12 sandstone 0
+fill ~6 ~2 ~13 ~9 ~2 ~13 sandstone 0
+setblock ~8 ~2 ~1 sandstone_stairs 0
+fill ~4 ~3 ~0 ~11 ~3 ~0 sandstone 0
+fill ~4 ~3 ~2 ~12 ~3 ~2 sandstone 0
+fill ~4 ~3 ~12 ~11 ~3 ~12 sandstone 0
+fill ~6 ~3 ~13 ~9 ~3 ~13 sandstone 0
+setblock ~9 ~3 ~1 sandstone_stairs 0
+fill ~1 ~4 ~6 ~1 ~6 ~6 sandstone 0
+fill ~1 ~4 ~7 ~1 ~6 ~7 sandstone 0
+fill ~4 ~4 ~0 ~11 ~4 ~0 sandstone 0
+fill ~4 ~4 ~2 ~12 ~4 ~2 sandstone 0
+fill ~4 ~4 ~12 ~11 ~4 ~12 sandstone 0
+fill ~6 ~4 ~13 ~9 ~4 ~13 sandstone 0
+setblock ~10 ~4 ~1 sandstone_stairs 0
+fill ~14 ~4 ~6 ~14 ~6 ~6 sandstone 0
+fill ~14 ~4 ~7 ~14 ~6 ~7 sandstone 0
+fill ~2 ~5 ~5 ~13 ~5 ~5 sandstone 0
+fill ~2 ~5 ~6 ~13 ~5 ~6 sandstone 0
+fill ~2 ~5 ~7 ~13 ~5 ~7 sandstone 0
+fill ~2 ~5 ~8 ~13 ~5 ~8 sandstone 0
+fill ~3 ~5 ~3 ~12 ~5 ~3 sandstone 0
+fill ~3 ~5 ~4 ~12 ~5 ~4 sandstone 0
+fill ~3 ~5 ~9 ~12 ~5 ~9 sandstone 0
+fill ~3 ~5 ~10 ~12 ~5 ~10 sandstone 0
+fill ~4 ~5 ~0 ~11 ~5 ~0 sandstone 0
+fill ~4 ~5 ~1 ~4 ~5 ~11 sandstone 0
+fill ~4 ~5 ~12 ~5 ~5 ~12 sandstone 0
+fill ~5 ~5 ~2 ~10 ~5 ~2 sandstone 0
+fill ~5 ~5 ~11 ~11 ~5 ~11 sandstone 0
+fill ~6 ~5 ~12 ~9 ~5 ~12 sandstone 0
+fill ~6 ~5 ~13 ~9 ~5 ~13 sandstone 0
+fill ~10 ~5 ~12 ~11 ~5 ~12 sandstone 0
+setblock ~11 ~5 ~1 sandstone_stairs 0
+setblock ~11 ~5 ~2 sandstone 0
+fill ~4 ~6 ~0 ~11 ~6 ~0 sandstone 0
+fill ~4 ~6 ~12 ~11 ~6 ~12 sandstone 0
+setblock ~5 ~6 ~1 sandstone_stairs 0
+fill ~5 ~6 ~2 ~10 ~6 ~2 sandstone 0
 setblock ~5 ~6 ~9 mob_spawner 0
-fill ~6 ~6 ~13 ~9 ~6 ~13 cobblestone 0
-fill ~7 ~6 ~10 ~8 ~6 ~10 double_stone_slab 0
+fill ~6 ~6 ~13 ~9 ~6 ~13 sandstone 0
+fill ~7 ~6 ~10 ~8 ~6 ~10 sandstone 0
 setblock ~10 ~6 ~9 mob_spawner 0
-fill ~4 ~7 ~0 ~11 ~7 ~0 cobblestone 0
-fill ~4 ~7 ~12 ~11 ~7 ~12 cobblestone 0
-fill ~5 ~7 ~2 ~10 ~7 ~2 cobblestone 0
-setblock ~6 ~7 ~1 stone_stairs 0
-fill ~6 ~7 ~13 ~9 ~7 ~13 cobblestone 0
+fill ~4 ~7 ~0 ~11 ~7 ~0 sandstone 0
+fill ~4 ~7 ~12 ~11 ~7 ~12 sandstone 0
+fill ~5 ~7 ~2 ~10 ~7 ~2 sandstone 0
+setblock ~6 ~7 ~1 sandstone_stairs 0
+fill ~6 ~7 ~13 ~9 ~7 ~13 sandstone 0
 fill ~7 ~7 ~10 ~8 ~7 ~10 chest 2
 replaceitem block ~7 ~7 ~10 slot.container 4 rotten_flesh 14
 replaceitem block ~8 ~7 ~10 slot.container 16 baked_potato 2
 replaceitem block ~8 ~7 ~10 slot.container 10 arrow 29
-fill ~4 ~8 ~0 ~11 ~8 ~0 cobblestone 0
-fill ~4 ~8 ~2 ~12 ~8 ~2 cobblestone 0
-fill ~4 ~8 ~12 ~11 ~8 ~12 cobblestone 0
-fill ~6 ~8 ~13 ~9 ~8 ~13 cobblestone 0
-setblock ~7 ~8 ~1 stone_stairs 0
-fill ~4 ~9 ~0 ~11 ~9 ~0 cobblestone 0
-fill ~4 ~9 ~2 ~12 ~9 ~2 cobblestone 0
-fill ~4 ~9 ~12 ~11 ~9 ~12 cobblestone 0
-fill ~6 ~9 ~13 ~9 ~9 ~13 cobblestone 0
-setblock ~8 ~9 ~1 stone_stairs 0
-fill ~4 ~10 ~0 ~11 ~10 ~0 cobblestone 0
-fill ~4 ~10 ~2 ~12 ~10 ~2 cobblestone 0
-fill ~4 ~10 ~12 ~11 ~10 ~12 cobblestone 0
-fill ~6 ~10 ~13 ~9 ~10 ~13 cobblestone 0
-setblock ~9 ~10 ~1 stone_stairs 0
-fill ~1 ~11 ~6 ~1 ~13 ~6 cobblestone 0
-fill ~1 ~11 ~7 ~1 ~13 ~7 cobblestone 0
-fill ~4 ~11 ~0 ~11 ~11 ~0 cobblestone 0
-fill ~4 ~11 ~2 ~12 ~11 ~2 cobblestone 0
-fill ~4 ~11 ~12 ~11 ~11 ~12 cobblestone 0
-fill ~6 ~11 ~13 ~9 ~11 ~13 cobblestone 0
-setblock ~10 ~11 ~1 stone_stairs 0
-fill ~14 ~11 ~6 ~14 ~13 ~6 cobblestone 0
-fill ~14 ~11 ~7 ~14 ~13 ~7 cobblestone 0
-fill ~2 ~12 ~5 ~13 ~12 ~5 double_stone_slab 0
-fill ~2 ~12 ~6 ~8 ~12 ~6 double_stone_slab 0
-fill ~2 ~12 ~7 ~13 ~12 ~7 double_stone_slab 0
-fill ~2 ~12 ~8 ~13 ~12 ~8 double_stone_slab 0
-fill ~3 ~12 ~3 ~12 ~12 ~3 double_stone_slab 0
-fill ~3 ~12 ~4 ~12 ~12 ~4 double_stone_slab 0
-fill ~3 ~12 ~9 ~12 ~12 ~9 double_stone_slab 0
-fill ~3 ~12 ~10 ~12 ~12 ~10 double_stone_slab 0
-fill ~4 ~12 ~0 ~11 ~12 ~0 cobblestone 0
-fill ~4 ~12 ~1 ~4 ~12 ~11 double_stone_slab 0
-fill ~4 ~12 ~12 ~5 ~12 ~12 cobblestone 0
-fill ~5 ~12 ~2 ~10 ~12 ~2 cobblestone 0
-fill ~5 ~12 ~11 ~11 ~12 ~11 double_stone_slab 0
-fill ~6 ~12 ~12 ~9 ~12 ~12 double_stone_slab 0
-fill ~6 ~12 ~13 ~9 ~12 ~13 cobblestone 0
-fill ~10 ~12 ~6 ~13 ~12 ~6 double_stone_slab 0
-fill ~10 ~12 ~12 ~11 ~12 ~12 cobblestone 0
-setblock ~11 ~12 ~1 stone_stairs 0
-setblock ~11 ~12 ~2 double_stone_slab 0
-fill ~4 ~13 ~0 ~11 ~13 ~0 cobblestone 0
-fill ~4 ~13 ~12 ~11 ~13 ~12 cobblestone 0
-setblock ~5 ~13 ~1 stone_stairs 0
-fill ~5 ~13 ~2 ~10 ~13 ~2 cobblestone 0
+fill ~4 ~8 ~0 ~11 ~8 ~0 sandstone 0
+fill ~4 ~8 ~2 ~12 ~8 ~2 sandstone 0
+fill ~4 ~8 ~12 ~11 ~8 ~12 sandstone 0
+fill ~6 ~8 ~13 ~9 ~8 ~13 sandstone 0
+setblock ~7 ~8 ~1 sandstone_stairs 0
+fill ~4 ~9 ~0 ~11 ~9 ~0 sandstone 0
+fill ~4 ~9 ~2 ~12 ~9 ~2 sandstone 0
+fill ~4 ~9 ~12 ~11 ~9 ~12 sandstone 0
+fill ~6 ~9 ~13 ~9 ~9 ~13 sandstone 0
+setblock ~8 ~9 ~1 sandstone_stairs 0
+fill ~4 ~10 ~0 ~11 ~10 ~0 sandstone 0
+fill ~4 ~10 ~2 ~12 ~10 ~2 sandstone 0
+fill ~4 ~10 ~12 ~11 ~10 ~12 sandstone 0
+fill ~6 ~10 ~13 ~9 ~10 ~13 sandstone 0
+setblock ~9 ~10 ~1 sandstone_stairs 0
+fill ~1 ~11 ~6 ~1 ~13 ~6 sandstone 0
+fill ~1 ~11 ~7 ~1 ~13 ~7 sandstone 0
+fill ~4 ~11 ~0 ~11 ~11 ~0 sandstone 0
+fill ~4 ~11 ~2 ~12 ~11 ~2 sandstone 0
+fill ~4 ~11 ~12 ~11 ~11 ~12 sandstone 0
+fill ~6 ~11 ~13 ~9 ~11 ~13 sandstone 0
+setblock ~10 ~11 ~1 sandstone_stairs 0
+fill ~14 ~11 ~6 ~14 ~13 ~6 sandstone 0
+fill ~14 ~11 ~7 ~14 ~13 ~7 sandstone 0
+fill ~2 ~12 ~5 ~13 ~12 ~5 sandstone 0
+fill ~2 ~12 ~6 ~8 ~12 ~6 sandstone 0
+fill ~2 ~12 ~7 ~13 ~12 ~7 sandstone 0
+fill ~2 ~12 ~8 ~13 ~12 ~8 sandstone 0
+fill ~3 ~12 ~3 ~12 ~12 ~3 sandstone 0
+fill ~3 ~12 ~4 ~12 ~12 ~4 sandstone 0
+fill ~3 ~12 ~9 ~12 ~12 ~9 sandstone 0
+fill ~3 ~12 ~10 ~12 ~12 ~10 sandstone 0
+fill ~4 ~12 ~0 ~11 ~12 ~0 sandstone 0
+fill ~4 ~12 ~1 ~4 ~12 ~11 sandstone 0
+fill ~4 ~12 ~12 ~5 ~12 ~12 sandstone 0
+fill ~5 ~12 ~2 ~10 ~12 ~2 sandstone 0
+fill ~5 ~12 ~11 ~11 ~12 ~11 sandstone 0
+fill ~6 ~12 ~12 ~9 ~12 ~12 sandstone 0
+fill ~6 ~12 ~13 ~9 ~12 ~13 sandstone 0
+fill ~10 ~12 ~6 ~13 ~12 ~6 sandstone 0
+fill ~10 ~12 ~12 ~11 ~12 ~12 sandstone 0
+setblock ~11 ~12 ~1 sandstone_stairs 0
+setblock ~11 ~12 ~2 sandstone 0
+fill ~4 ~13 ~0 ~11 ~13 ~0 sandstone 0
+fill ~4 ~13 ~12 ~11 ~13 ~12 sandstone 0
+setblock ~5 ~13 ~1 sandstone_stairs 0
+fill ~5 ~13 ~2 ~10 ~13 ~2 sandstone 0
 setblock ~5 ~13 ~9 mob_spawner 0
-fill ~6 ~13 ~13 ~9 ~13 ~13 cobblestone 0
-fill ~7 ~13 ~10 ~8 ~13 ~10 double_stone_slab 0
+fill ~6 ~13 ~13 ~9 ~13 ~13 sandstone 0
+fill ~7 ~13 ~10 ~8 ~13 ~10 sandstone 0
 setblock ~10 ~13 ~9 mob_spawner 0
 fill ~4 ~14 ~0 ~11 ~14 ~0 cobblestone 0
 fill ~4 ~14 ~12 ~11 ~14 ~12 cobblestone 0

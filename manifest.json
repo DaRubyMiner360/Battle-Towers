@@ -3,7 +3,7 @@
     "header": {
         "description": "Battle Towers\nCreated By: DaRubyMiner360",
         "name": "Battle Towers 1.0.0.0",
-        "uuid": "ge9f8597-5454-481a-8730-8d060a8e2e59",
+        "uuid": "ge9f8597-5454-481a-8730-8d060a8e2e50",
         "min_engine_version": [1, 8, 0],
         "version": [0, 0, 1]
     },
@@ -11,7 +11,7 @@
         {
             "description": "Battle Towers\nCreated By: DaRubyMiner360",
             "type": "data",
-            "uuid": "89fccc3b-7bad-4f3f-aa97-d98108e6aa34",
+            "uuid": "89fccc3b-7bad-4f3f-aa97-d98108e6aa35",
             "version": [0, 0, 1]
         }
     ]
